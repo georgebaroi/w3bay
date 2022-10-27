@@ -1,0 +1,9 @@
+backend/tmp/cache
+frontend/node_modules
+frontend/package-lock.json
+frontend/.cache
+backend/config/master.key
+backend/storage/*
+backend/log/*
+backend/.bundle
+
